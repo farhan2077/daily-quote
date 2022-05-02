@@ -12,8 +12,8 @@ export default function Home({ data }) {
       </Head>
       <Modal />
       <main className="flex items-center justify-center bg-gradient">
-        <div className="mx-10 mb-3 lg:container lg:px-80">
-          <p className="text-6xl lg:text-[6rem] text-slate-800">
+        <div className="mx-10 lg:container lg:px-80">
+          <p className="text-4xl lg:text-[6rem] text-slate-800 mb-2 lg:mb-8">
             &#10075;&#10075;
           </p>
           <p className="font-serif text-2xl font-bold lg:text-6xl text-slate-800">
